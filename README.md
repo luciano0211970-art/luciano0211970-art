@@ -8,7 +8,15 @@
 
 <p align="center">
   Estudante de Python, Java e C#. <br>
-  Este perfil é meu diário de código, onde registro meus estudos e projetos em desenvolvimento.
+ 🎯 **Atualmente, focado(a) em:**
+-   **Python:** Começando com a sintaxe e lógica, mirando em projetos de automação.
+-   **Java:** Entendendo os conceitos de POO (Programação Orientada a Objetos).
+-   **C#:** Explorando o básico para desenvolvimento de aplicações.
+
+🌱 **O que você encontrará aqui:**
+-   Meus primeiros projetos (e erros!).
+-   Exercícios de lógica e desafios de codificação.
+-   Repositórios de estudo para as linguagens Python, Java e C#.
 </p>
 
 <div align="left" style="display: inline_block"><br>
