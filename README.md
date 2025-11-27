@@ -9,8 +9,10 @@
 <p align="center">
   Estudante de Python, Java e C#. <br>
 </p>
+<br>
 <p>
- 🎯 **Atualmente, focado(a) em:**
+  
+🎯 **Atualmente, focado(a) em:**
 -   **Python:** Começando com a sintaxe e lógica, mirando em projetos de automação.
 -   **Java:** Entendendo os conceitos de POO (Programação Orientada a Objetos).
 -   **C#:** Explorando o básico para desenvolvimento de aplicações.
