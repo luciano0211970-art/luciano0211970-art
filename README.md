@@ -7,7 +7,7 @@
   </div>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas (ADS) com foco em Python, Java e C#. <br>
+  Estudante de Python, Java e C#. <br>
   Este perfil é meu diário de código, onde registro meus estudos e projetos em desenvolvimento.
 </p>
 
@@ -25,7 +25,4 @@
   <a href="mailto:luciano0211970@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<br>
-<div align="center">
-  <img height="100" src="https://media.giphy.com/media/LmN8EsOoq3SUnYt4G8/giphy.gif" alt="Coding GIF">
-</div>
+
